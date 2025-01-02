@@ -58,7 +58,7 @@ Ensure you have the following installed:
    
 1. **Open the Jupyter Notebook:**   
    ```bash
-   jupyter notebook task2.py
+   jupyter notebook task3.py
    ```
 
 2. **Run the cells sequentially:**
